@@ -1,0 +1,6 @@
+ID,SourceTable,Sex,Age,PrimarySite,HistologicType
+1,raw.Table1,1,9,629,9061
+2,raw.Table1,1,14,209,8140
+...
+13084741,raw.Table2,1,16,445,8094
+13084742,raw.Table2,1,15,619,8140

@@ -1,0 +1,627 @@
+﻿ICDO3_2;Level;Morphology;Phenotype;morphology_group;ICDO3_2_cropped
+8000;Preferred;Neoplasm;mixed or multipotent stem cell;Neoplasm;0
+8001;Preferred;Tumor cells;mixed or multipotent stem cell;Neoplasm;1
+8002;Preferred;Malignant tumor small cell type;mixed or multipotent stem cell;Neoplasm;2
+8003;Preferred;Malignant tumor giant cell type;mixed or multipotent stem cell;Neoplasm;3
+8004;Preferred;Malignant tumor spindle cell type;mixed or multipotent stem cell;Neoplasm;4
+8005;Preferred;Malignant tumor clear cell type;mixed or multipotent stem cell;Neoplasm;5
+8010;Preferred;Carcinoma;epithelial;Carcinoma;10
+8011;Preferred;Epithelioma;epithelial;Carcinoma;11
+8012;Preferred;Large cell carcinoma;neuroectodermal;Neuroendocrine tumor;12
+8013;Preferred;Large cell neuroendocrine carcinoma;neuroectodermal;Neuroendocrine tumor;13
+8014;Preferred;Large cell carcinoma with rhabdoid phenotype;neuroectodermal;Neuroendocrine tumor;14
+8015;Preferred;Glassy cell carcinoma;epithelial;Carcinoma;15
+8020;Preferred;Carcinoma;epithelial;Carcinoma;20
+8021;Preferred;Carcinoma;epithelial;Carcinoma;21
+8022;Preferred;Pleomorphic carcinoma;epithelial;Carcinoma;22
+8023;Preferred;Nuclear protein in testis (NUT) associated carcinoma;epithelial;Carcinoma;23
+8030;Preferred;Giant cell and spindle cell carcinoma;epithelial;Carcinoma;30
+8031;Preferred;Giant cell carcinoma;epithelial;Carcinoma;31
+8032;Preferred;Spindle cell carcinoma;epithelial;Carcinoma;32
+8033;Preferred;Pseudosarcomatous carcinoma;epithelial;Carcinoma;33
+8034;Preferred;Polygonal cell carcinoma;epithelial;Carcinoma;34
+8035;Preferred;Carcinoma with osteoclast-like giant cells;epithelial;Carcinoma;35
+8041;Preferred;Small cell carcinoma;neuroectodermal;Neuroendocrine tumor;41
+8042;Preferred;Oat cell carcinoma;neuroectodermal;Neuroendocrine tumor;42
+8043;Preferred;Small cell carcinoma;neuroectodermal;Neuroendocrine tumor;43
+8044;Preferred;Small cell carcinoma;neuroectodermal;Neuroendocrine tumor;44
+8045;Preferred;Combined small cell carcinoma;neuroectodermal;Neuroendocrine tumor;45
+8046;Preferred;Non-small cell carcinoma;epithelial;Carcinoma;46
+8050;Preferred;Papillary carcinoma;epithelial;Carcinoma;50
+8051;Preferred;Verrucous carcinoma;epithelial;Carcinoma;51
+8052;Preferred;Papillary squamous cell carcinoma;epithelial;Squamous cell carcinoma;52
+8054;Preferred;Warty carcinoma;epithelial;Squamous cell carcinoma;54
+8070;Preferred;Squamous cell carcinoma;epithelial;Squamous cell carcinoma;70
+8071;Preferred;Squamous cell carcinoma;epithelial;Squamous cell carcinoma;71
+8072;Preferred;Squamous cell carcinoma;epithelial;Squamous cell carcinoma;72
+8073;Preferred;Squamous cell carcinoma;epithelial;Squamous cell carcinoma;73
+8074;Preferred;Squamous cell carcinoma;epithelial;Squamous cell carcinoma;74
+8075;Preferred;Squamous cell carcinoma;epithelial;Squamous cell carcinoma;75
+8076;Preferred;Squamous cell carcinoma;epithelial;Squamous cell carcinoma;76
+8078;Preferred;Squamous cell carcinoma;epithelial;Squamous cell carcinoma;78
+8082;Preferred;Lymphoepithelial carcinoma;epithelial;Lymphoepithelial carcinoma;82
+8083;Preferred;Basaloid squamous cell carcinoma;epithelial;Squamous cell carcinoma;83
+8084;Preferred;Squamous cell carcinoma;epithelial;Squamous cell carcinoma;84
+8085;Preferred;Squamous cell carcinoma;epithelial;Squamous cell carcinoma;85
+8086;Preferred;Squamous cell carcinoma;epithelial;Squamous cell carcinoma;86
+8090;Preferred;Basal cell carcinoma;epithelial;Basal cell carcinoma;90
+8091;Preferred;Basal cell carcinoma;epithelial;Basal cell carcinoma;91
+8092;Preferred;Basal cell carcinoma;epithelial;Basal cell carcinoma;92
+8093;Preferred;Basal cell carcinoma;epithelial;Basal cell carcinoma;93
+8094;Preferred;Basosquamous carcinoma;epithelial;Squamous cell carcinoma;94
+8095;Preferred;Metatypical carcinoma;epithelial;Carcinoma;95
+8097;Preferred;Basal cell carcinoma;epithelial;Basal cell carcinoma;97
+8098;Preferred;Basal cell carcinoma;epithelial;Adenoid basal carcinoma;98
+8100;Preferred;Trichoblastic carcinoma;epithelial;Trichoblastic carcinoma;100
+8102;Preferred;Trichilemmocarcinoma;epithelial;Trichilemmocarcinoma;102
+8110;Preferred;Pilomatrical carcinoma;epithelial;Pilomatrical carcinoma;110
+8120;Preferred;Transitional cell carcinoma;epithelial;Transitional cell carcinoma;120
+8121;Preferred;Schneiderian carcinoma;epithelial;Transitional cell carcinoma;121
+8122;Preferred;Urothelial carcinoma sarcomatoid ;epithelial;Transitional cell carcinoma;122
+8123;Preferred;Basaloid carcinoma;epithelial;Transitional cell carcinoma;123
+8124;Preferred;Cloacogenic carcinoma;epithelial;Transitional cell carcinoma;124
+8130;Preferred;Papillary transitional cell carcinoma;epithelial;Transitional cell carcinoma;130
+8131;Preferred;Urothelial carcinoma micropapillary;epithelial;Transitional cell carcinoma;131
+8140;Preferred;Adenocarcinoma;epithelial;Adenocarcinoma;140
+8141;Preferred;Scirrhous adenocarcinoma;epithelial;Adenocarcinoma;141
+8142;Preferred;Linitis plastica;epithelial;Adenocarcinoma;142
+8143;Preferred;Superficial spreading adenocarcinoma;epithelial;Adenocarcinoma;143
+8144;Preferred;Adenocarcinoma intestinal type;epithelial;Adenocarcinoma;144
+8145;Preferred;Carcinoma;epithelial;Adenocarcinoma;145
+8147;Preferred;Basal cell adenocarcinoma;epithelial;Adenocarcinoma;147
+8150;Preferred;Pancreatic neuroendocrine tumor nonfunctioning;neuroectodermal;Neuroendocrine tumor;150
+8151;Preferred;Insulinoma;neuroectodermal;Neuroendocrine tumor;151
+8152;Preferred;Glucagonoma;neuroectodermal;Neuroendocrine tumor;152
+8153;Preferred;Gastrinoma;neuroectodermal;Neuroendocrine tumor;153
+8154;Preferred;Mixed neuroendocrine non-neuroendocrine neoplasm (MiNEN);neuroectodermal;Neuroendocrine tumor;154
+8155;Preferred;Vipoma;neuroectodermal;Neuroendocrine tumor;155
+8156;Preferred;Somatostatinoma;neuroectodermal;Neuroendocrine tumor;156
+8158;Preferred;ACTH-producing tumor;neuroectodermal;Neuroendocrine tumor;158
+8160;Preferred;Cholangiocarcinoma;epithelial;Adenocarcinoma;160
+8161;Preferred;Bile duct cystadenocarcinoma;epithelial;Adenocarcinoma;161
+8162;Preferred;Klatskin tumor;epithelial;Adenocarcinoma;162
+8163;Preferred;Pancreatobiliary type carcinoma;epithelial;Adenocarcinoma;163
+8170;Preferred;Hepatocellular carcinoma;epithelial;Hepatocellular carcinoma;170
+8171;Preferred;Hepatocellular carcinoma fibrolamellar;epithelial;Hepatocellular carcinoma;171
+8172;Preferred;Hepatocellular carcinoma scirrhous;epithelial;Hepatocellular carcinoma;172
+8173;Preferred;Hepatocellular carcinoma spindle cell variant;epithelial;Hepatocellular carcinoma;173
+8174;Preferred;Hepatocellular carcinoma clear cell type;epithelial;Hepatocellular carcinoma;174
+8175;Preferred;Hepatocellular carcinoma pleomorphic type;epithelial;Hepatocellular carcinoma;175
+8180;Preferred;Combined hepatocellular carcinoma and cholangiocarcinoma;epithelial;Combined hepatocellular carcinoma and cholangiocarcinoma;180
+8190;Preferred;Trabecular adenocarcinoma;epithelial;Adenocarcinoma;190
+8200;Preferred;Adenoid cystic carcinoma;epithelial;Adenoid cystic carcinoma;200
+8201;Preferred;Cribriform carcinoma;epithelial;Adenocarcinoma;201
+8210;Preferred;Adenocarcinoma in adenomatous polyp;epithelial;Adenocarcinoma;210
+8211;Preferred;Tubular adenocarcinoma;epithelial;Adenocarcinoma;211
+8213;Preferred;Serrated adenocarcinoma;epithelial;Adenocarcinoma;213
+8214;Preferred;Parietal cell carcinoma;epithelial;Adenocarcinoma;214
+8215;Preferred;Adenocarcinoma of anal glands;epithelial;Adenocarcinoma;215
+8220;Preferred;Adenocarcinoma in adenomatous polyposis coli;epithelial;Adenocarcinoma;220
+8221;Preferred;Adenocarcinoma in multiple adenomatous polyps;epithelial;Adenocarcinoma;221
+8230;Preferred;Solid carcinoma;epithelial;Carcinoma;230
+8231;Preferred;Carcinoma simplex;epithelial;Carcinoma;231
+8240;Preferred;Neuroendocrine tumor;neuroectodermal;Neuroendocrine tumor;240
+8241;Preferred;Enterochromaffin cell carcinoid;neuroectodermal;Neuroendocrine tumor;241
+8242;Preferred;Enterochromaffin-like cell tumormalignant;neuroectodermal;Neuroendocrine tumor;242
+8243;Preferred;Goblet cell carcinoid;mixed or multipotent stem cell;Goblet cell carcinoid;243
+8244;Preferred;Mixed adenoneuroendocrine carcinoma;mixed or multipotent stem cell;Neuroendocrine tumor;244
+8245;Preferred;Adenocarcinoid tumor;mixed or multipotent stem cell;Neuroendocrine tumor;245
+8246;Preferred;Neuroendocrine carcinoma;epithelial;Neuroendocrine tumor;246
+8247;Preferred;Merkel cell carcinoma;epithelial;Merkel cell carcinoma;247
+8249;Preferred;Neuroendocrine tumor grade 2;neuroectodermal;Neuroendocrine tumor;249
+8250;Preferred;Lepidic adenocarcinoma;epithelial;Adenocarcinoma;250
+8251;Preferred;Alveolar adenocarcinoma;epithelial;Adenocarcinoma;251
+8252;Preferred;Bronchiolo-alveolar carcinoma non-mucinous;epithelial;Adenocarcinoma;252
+8253;Preferred;Adenocarcinoma of the lung mucinous;epithelial;Adenocarcinoma;253
+8254;Preferred;Adenocarcinoma of the lung mixed mucinous and non-mucinous;epithelial;Adenocarcinoma;254
+8255;Preferred;Adenocarcinoma with mixed subtypes;epithelial;Adenocarcinoma;255
+8256;Preferred;Minimally invasive adenocarcinoma non-mucinous;epithelial;Adenocarcinoma;256
+8257;Preferred;Minimally invasive adenocarcinoma mucinous;epithelial;Adenocarcinoma;257
+8260;Preferred;Papillary adenocarcinoma;epithelial;Adenocarcinoma;260
+8261;Preferred;Adenocarcinoma in villous adenoma;epithelial;Adenocarcinoma;261
+8262;Preferred;Villous adenocarcinoma;epithelial;Adenocarcinoma;262
+8263;Preferred;Adenocarcinoma in tubulovillous adenoma;epithelial;Adenocarcinoma;263
+8265;Preferred;Micropapillary carcinoma;epithelial;Adenocarcinoma;265
+8270;Preferred;Chromophobe carcinoma;epithelial;Adenocarcinoma;270
+8272;Preferred;Pituitary carcinoma;epithelial;Pituitary carcinoma;272
+8273;Preferred;Pituitary blastoma;mixed or multipotent stem cell;Pituitary blastoma;273
+8280;Preferred;Acidophil carcinoma;epithelial;Carcinoma;280
+8281;Preferred;Mixed acidophil-basophil carcinoma;epithelial;Carcinoma;281
+8290;Preferred;Oxyphilic adenocarcinoma;epithelial;Adenocarcinoma;290
+8300;Preferred;Basophil carcinoma;epithelial;Carcinoma;300
+8310;Preferred;Clear cell adenocarcinoma;epithelial;Adenocarcinoma;310
+8311;Preferred;HRCC-associated renal cell carcinoma;epithelial;Adenocarcinoma;311
+8312;Preferred;Renal cell carcinoma;epithelial;Adenocarcinoma;312
+8313;Preferred;Clear cell adenocarcinofibroma;epithelial;Adenocarcinoma;313
+8314;Preferred;Lipid-rich carcinoma;epithelial;Carcinoma;314
+8315;Preferred;Glycogen-rich carcinoma;epithelial;Carcinoma;315
+8316;Preferred;Cyst-associated renal cell carcinoma;epithelial;Adenocarcinoma;316
+8317;Preferred;Renal cell carcinoma chromophobe type;epithelial;Adenocarcinoma;317
+8318;Preferred;Renal cell carcinoma sarcomatoid;epithelial;Adenocarcinoma;318
+8319;Preferred;Collecting duct carcinoma;epithelial;Adenocarcinoma;319
+8320;Preferred;Granular cell carcinoma;mesenchymal;Granular cell carcinoma;320
+8322;Preferred;Water-clear cell adenocarcinoma;epithelial;Adenocarcinoma;322
+8323;Preferred;Mixed cell adenocarcinoma;epithelial;Adenocarcinoma;323
+8330;Preferred;Follicular carcinoma;epithelial;Adenocarcinoma;330
+8331;Preferred;Follicular adenocarcinoma well differentiated;epithelial;Adenocarcinoma;331
+8332;Preferred;Follicular adenocarcinoma trabecular;epithelial;Adenocarcinoma;332
+8333;Preferred;Fetal adenocarcinoma;epithelial;Adenocarcinoma;333
+8335;Preferred;Follicular carcinoma minimally invasive;epithelial;Adenocarcinoma;335
+8337;Preferred;Poorly differentiated thyroid carcinoma;epithelial;Adenocarcinoma;337
+8339;Preferred;Follicular carcinoma encapsulated angioinvasive;epithelial;Adenocarcinoma;339
+8340;Preferred;Papillary carcinoma follicular variant;epithelial;Adenocarcinoma;340
+8341;Preferred;Papillary microcarcinoma;epithelial;Adenocarcinoma;341
+8342;Preferred;Papillary carcinoma oncocytic variant;epithelial;Adenocarcinoma;342
+8343;Preferred;Papillary carcinoma encapsulated of thyroid;epithelial;Adenocarcinoma;343
+8344;Preferred;Papillary carcinoma columnar cell;epithelial;Adenocarcinoma;344
+8345;Preferred;Medullary thyroid carcinoma;neuroectodermal;Medullary thyroid carcinoma;345
+8346;Preferred;Mixed medullary-follicular carcinoma;mixed or multipotent stem cell;Carcinoma;346
+8347;Preferred;Mixed medullary-papillary carcinoma;mixed or multipotent stem cell;Carcinoma;347
+8350;Preferred;Nonencapsulated sclerosing carcinoma;epithelial;Carcinoma;350
+8370;Preferred;Adrenal cortical carcinoma;epithelial;Adrenal cortical carcinoma;370
+8380;Preferred;Endometrioid adenocarcinoma;epithelial;Adenocarcinoma;380
+8381;Preferred;Endometrioid adenofibroma malignant;epithelial;Adenocarcinoma;381
+8382;Preferred;Endometrioid adenocarcinoma secretory variant;epithelial;Adenocarcinoma;382
+8383;Preferred;Endometrioid adenocarcinoma ciliated cell variant;epithelial;Adenocarcinoma;383
+8384;Preferred;Adenocarcinoma endocervical type;epithelial;Adenocarcinoma;384
+8390;Preferred;Adnexal adenocarcinoma;epithelial;Adenocarcinoma;390
+8400;Preferred;Sweat gland adenocarcinoma;epithelial;Adenocarcinoma;400
+8401;Preferred;Apocrine adenocarcinoma;epithelial;Adenocarcinoma;401
+8402;Preferred;Hidradenocarcinoma;epithelial;Adenocarcinoma;402
+8403;Preferred;Malignant eccrine spiradenoma;epithelial;Adenocarcinoma;403
+8406;Preferred;Syringocystadenocarcinoma papilliferum;epithelial;Adenocarcinoma;406
+8407;Preferred;Microcystic adnexal carcinoma;epithelial;Adenocarcinoma;407
+8408;Preferred;Digital papillary adenocarcinoma;epithelial;Adenocarcinoma;408
+8409;Preferred;Porocarcinoma;epithelial;Adenocarcinoma;409
+8410;Preferred;Sebaceous carcinoma;epithelial;Adenocarcinoma;410
+8413;Preferred;Eccrine adenocarcinoma;epithelial;Adenocarcinoma;413
+8420;Preferred;Ceruminous adenocarcinoma;epithelial;Adenocarcinoma;420
+8430;Preferred;Mucoepidermoid carcinoma;epithelial;Adenocarcinoma;430
+8440;Preferred;Cystadenocarcinoma;epithelial;Adenocarcinoma;440
+8441;Preferred;Serous carcinoma;epithelial;Adenocarcinoma;441
+8450;Preferred;Papillary cystadenocarcinoma;epithelial;Adenocarcinoma;450
+8452;Preferred;Solid pseudopapillary neoplasm of the pancreas;mixed or multipotent stem cell;Solid pseudopapillary neoplasm of the pancreas;452
+8453;Preferred;IPMN with an associated invasive carcinoma;epithelial;Adenocarcinoma;453
+8460;Preferred;Low grade serous carcinoma;epithelial;Adenocarcinoma;460
+8461;Preferred;High grade serous carcinoma;epithelial;Adenocarcinoma;461
+8470;Preferred;Mucinous cystadenocarcinoma;epithelial;Adenocarcinoma;470
+8474;Preferred;Seromucinous carcinoma;epithelial;Adenocarcinoma;474
+8480;Preferred;Mucinous adenocarcinoma;epithelial;Adenocarcinoma;480
+8481;Preferred;Mucin-producing adenocarcinoma;epithelial;Adenocarcinoma;481
+8482;Preferred;Mucinous carcinoma gastric type;epithelial;Adenocarcinoma;482
+8490;Preferred;Signet ring cell carcinoma;epithelial;Adenocarcinoma;490
+8500;Preferred;Infiltrating duct carcinoma;epithelial;Adenocarcinoma;500
+8501;Preferred;Comedocarcinoma;epithelial;Adenocarcinoma;501
+8502;Preferred;Secretory carcinoma;epithelial;Adenocarcinoma;502
+8503;Preferred;Intraductal papillary adenocarcinoma with invasion;epithelial;Adenocarcinoma;503
+8504;Preferred;Encapsulated papillary carcinoma with invasion;epithelial;Adenocarcinoma;504
+8507;Preferred;Invasive micropapillary carcinoma of breast;epithelial;Adenocarcinoma;507
+8508;Preferred;Cystic hypersecretory carcinoma;epithelial;Adenocarcinoma;508
+8509;Preferred;Solid papillary carcinoma with invasion;epithelial;Adenocarcinoma;509
+8510;Preferred;Medullary carcinoma;epithelial;Carcinoma;510
+8512;Preferred;Medullary carcinoma with lymphoid stroma;epithelial;Carcinoma;512
+8513;Preferred;Atypical medullary carcinoma;epithelial;Carcinoma;513
+8514;Preferred;Duct carcinoma desmoplastic type;epithelial;Adenocarcinoma;514
+8520;Preferred;Lobular carcinoma;epithelial;Adenocarcinoma;520
+8521;Preferred;Infiltrating ductular carcinoma;epithelial;Adenocarcinoma;521
+8522;Preferred;Infiltrating duct and lobular carcinoma;epithelial;Adenocarcinoma;522
+8523;Preferred;Infiltrating duct mixed with other types of carcinoma;epithelial;Adenocarcinoma;523
+8524;Preferred;Infiltrating lobular mixed with other types of carcinoma;epithelial;Adenocarcinoma;524
+8525;Preferred;Polymorphous adenocarcinoma;epithelial;Adenocarcinoma;525
+8530;Preferred;Inflammatory carcinoma;epithelial;Adenocarcinoma;530
+8540;Preferred;Paget disease mammary;epithelial;Adenocarcinoma;540
+8541;Preferred;Paget disease and infiltrating duct carcinoma of breast;epithelial;Adenocarcinoma;541
+8542;Preferred;Paget disease extramammary;epithelial;Adenocarcinoma;542
+8543;Preferred;Paget disease and intraductal carcinoma of breast;epithelial;Adenocarcinoma;543
+8550;Preferred;Acinar cell carcinoma;epithelial;Adenocarcinoma;550
+8551;Preferred;Acinar cell cystadenocarcinoma;epithelial;Adenocarcinoma;551
+8552;Preferred;Mixed acinar-ductal carcinoma;epithelial;Adenocarcinoma;552
+8560;Preferred;Adenosquamous carcinoma;epithelial;Carcinoma;560
+8562;Preferred;Epithelial-myoepithelial carcinoma;mixed or multipotent stem cell;Epithelial-myoepithelial carcinoma;562
+8570;Preferred;Adenocarcinoma with squamous metaplasia;epithelial;Adenocarcinoma;570
+8571;Preferred;Adenocarcinoma with cartilaginous and osseous metaplasia;epithelial;Adenocarcinoma;571
+8572;Preferred;Adenocarcinoma with spindle cell metaplasia;epithelial;Adenocarcinoma;572
+8573;Preferred;Adenocarcinoma with apocrine metaplasia;epithelial;Adenocarcinoma;573
+8574;Preferred;Adenocarcinoma with neuroendocrine differentiation;epithelial;Adenocarcinoma;574
+8575;Preferred;Metaplastic carcinoma;epithelial;Carcinoma;575
+8576;Preferred;Hepatoid adenocarcinoma;epithelial;Adenocarcinoma;576
+8580;Preferred;Thymoma;epithelial;Thymoma;580
+8581;Preferred;Thymoma type A;epithelial;Thymoma;581
+8582;Preferred;Thymoma type AB;epithelial;Thymoma;582
+8583;Preferred;Thymoma type B1;epithelial;Thymoma;583
+8584;Preferred;Thymoma type B2;epithelial;Thymoma;584
+8585;Preferred;Thymoma type B3;epithelial;Thymoma;585
+8586;Preferred;Thymic carcinoma;epithelial;Thymic carcinoma;586
+8588;Preferred;Spindle epithelial tumor with thymus-like element;epithelial;Carcinoma;588
+8589;Preferred;Intrathyroid thymic carcinoma;epithelial;Thymic carcinoma;589
+8600;Preferred;Thecoma malignant;germ cell;germ cell tumor;600
+8620;Preferred;Adult granulosa cell tumor of ovary;germ cell;germ cell tumor;620
+8630;Preferred;Androblastomamalignant;germ cell;germ cell tumor;630
+8631;Preferred;Sertoli-Leydig cell tumor;germ cell;Sertoli-Leydig cell tumor;631
+8634;Preferred;Sertoli-Leydig cell tumor;germ cell;Sertoli-Leydig cell tumor;634
+8640;Preferred;Sertoli cell carcinoma;germ cell;Sertoli cell carcinoma;640
+8650;Preferred;Leydig cell tumor malignant;germ cell;Leydig cell tumor malignant;650
+8670;Preferred;Steroid cell tumor malignant;germ cell;Steroid cell tumor malignant;670
+8680;Preferred;Paraganglioma;neuroectodermal;Paraganglioma;680
+8681;Preferred;Sympathetic paraganglioma;neuroectodermal;Paraganglioma;681
+8682;Preferred;Parasympathetic paraganglioma;neuroectodermal;Paraganglioma;682
+8690;Preferred;Middle ear paraganglioma;neuroectodermal;Paraganglioma;690
+8691;Preferred;Aortic body tumor;neuroectodermal;Paraganglioma;691
+8692;Preferred;Carotid body paraganglioma;neuroectodermal;Paraganglioma;692
+8693;Preferred;Extra-adrenal paraganglioma;neuroectodermal;Paraganglioma;693
+8700;Preferred;Pheochromocytoma;neuroectodermal;Pheochromocytoma;700
+8710;Preferred;Glomangiosarcoma;mesenchymal;Glomangiosarcoma;710
+8711;Preferred;Glomus tumormalignant;mesenchymal;Paraganglioma;711
+8714;Preferred;Perivascular epithelioid tumor malignant;mesenchymal;PEComa;714
+8720;Preferred;Malignant melanoma;neuroectodermal;Melanoma;720
+8721;Preferred;Nodular melanoma;neuroectodermal;Melanoma;721
+8722;Preferred;Balloon cell melanoma;neuroectodermal;Melanoma;722
+8723;Preferred;Malignant melanoma regressing;neuroectodermal;Melanoma;723
+8728;Preferred;Meningeal melanomatosis;neuroectodermal;Melanoma;728
+8730;Preferred;Amelanotic melanoma;neuroectodermal;Melanoma;730
+8740;Preferred;Malignant melanoma in junctional nevus;neuroectodermal;Melanoma;740
+8741;Preferred;Malignant melanoma in precancerous melanosis;neuroectodermal;Melanoma;741
+8742;Preferred;Lentigo maligna melanoma;neuroectodermal;Melanoma;742
+8743;Preferred;Low cumulative sun damage melanoma;neuroectodermal;Melanoma;743
+8744;Preferred;Acral melanoma;neuroectodermal;Melanoma;744
+8745;Preferred;Desmoplastic melanoma;neuroectodermal;Melanoma;745
+8746;Preferred;Mucosal lentiginous melanoma;neuroectodermal;Melanoma;746
+8761;Preferred;Malignant melanoma arising in giant congenital nevus;neuroectodermal;Melanoma;761
+8770;Preferred;Malignant Spitz tumor;neuroectodermal;Melanoma;770
+8771;Preferred;Epithelioid cell melanoma;neuroectodermal;Melanoma;771
+8772;Preferred;Spindle cell melanoma;neuroectodermal;Melanoma;772
+8773;Preferred;Spindle cell melanoma type A;neuroectodermal;Melanoma;773
+8774;Preferred;Spindle cell melanoma type B;neuroectodermal;Melanoma;774
+8780;Preferred;Blue nevus malignant;neuroectodermal;Melanoma;780
+8800;Preferred;Sarcoma;mesenchymal;Sarcoma;800
+8801;Preferred;Spindle cell sarcoma;mesenchymal;Sarcoma;801
+8802;Preferred;Giant cell sarcoma;mesenchymal;Sarcoma;802
+8803;Preferred;Small cell sarcoma;mesenchymal;Small cell sarcoma;803
+8804;Preferred;Epithelioid sarcoma;mesenchymal;Sarcoma;804
+8805;Preferred;Undifferentiated sarcoma;mesenchymal;Undifferentiated sarcoma;805
+8806;Preferred;Desmoplastic small round cell tumor;mesenchymal;Desmoplastic small round cell tumor;806
+8810;Preferred;Fibrosarcoma;mesenchymal;Fibrosarcoma;810
+8811;Preferred;Myxofibrosarcoma;mesenchymal;Myxofibrosarcoma;811
+8812;Preferred;Periosteal fibrosarcoma;mesenchymal;Fibrosarcoma;812
+8813;Preferred;Fascial fibrosarcoma;mesenchymal;Fibrosarcoma;813
+8814;Preferred;Infantile fibrosarcoma;mesenchymal;Fibrosarcoma;814
+8815;Preferred;Solitary fibrous tumormalignant;mesenchymal;Solitary fibrous tumor;815
+8825;Preferred;Myofibroblastic sarcoma;mesenchymal;Myofibroblastic sarcoma;825
+8830;Preferred;Malignant fibrous histiocytoma;mesenchymal;Sarcoma;830
+8832;Preferred;Dermatofibrosarcoma protuberans fibrosarcomatous;mesenchymal;Dermatofibrosarcoma protuberans;832
+8840;Preferred;Myxosarcoma;mesenchymal;Myxosarcoma;840
+8842;Preferred;Ossifying fibromyxoid tumormalignant;mesenchymal;Ossifying fibromyxoid tumor;842
+8850;Preferred;Liposarcoma;mesenchymal;Liposarcoma;850
+8851;Preferred;Liposarcoma well differentiated;mesenchymal;Liposarcoma;851
+8852;Preferred;Myxoid liposarcoma;mesenchymal;Myxoid liposarcoma;852
+8853;Preferred;Round cell liposarcoma;mesenchymal;Liposarcoma;853
+8854;Preferred;Pleomorphic liposarcoma;mesenchymal;Liposarcoma;854
+8855;Preferred;Mixed liposarcoma;mesenchymal;Liposarcoma;855
+8857;Preferred;Fibroblastic liposarcoma;mesenchymal;Liposarcoma;857
+8858;Preferred;Dedifferentiated liposarcoma;mesenchymal;Dedifferentiated liposarcoma;858
+8890;Preferred;Leiomyosarcoma;mesenchymal;Leiomyosarcoma;890
+8891;Preferred;Epithelioid leiomyosarcoma;mesenchymal;Leiomyosarcoma;891
+8894;Preferred;Angiomyosarcoma;mesenchymal;Angiomyosarcoma;894
+8895;Preferred;Myosarcoma;mesenchymal;Sarcoma;895
+8896;Preferred;Myxoid leiomyosarcoma;mesenchymal;Leiomyosarcoma;896
+8900;Preferred;Rhabdomyosarcoma;mesenchymal;Rhabdomyosarcoma;900
+8901;Preferred;Pleomorphic rhabdomyosarcoma adult type;mesenchymal;Rhabdomyosarcoma;901
+8902;Preferred;Mixed type rhabdomyosarcoma;mesenchymal;Rhabdomyosarcoma;902
+8910;Preferred;Embryonal rhabdomyosarcoma;mesenchymal;Rhabdomyosarcoma;910
+8912;Preferred;Spindle cell rhabdomyosarcoma;mesenchymal;Rhabdomyosarcoma;912
+8920;Preferred;Alveolar rhabdomyosarcoma;mesenchymal;Rhabdomyosarcoma;920
+8921;Preferred;Ectomesenchymoma;mixed or multipotent stem cell;Ectomesenchymoma;921
+8930;Preferred;Endometrial stromal sarcoma;mesenchymal;Endometrial stromal sarcoma;930
+8931;Preferred;Endometrial stromal sarcoma low grade;mesenchymal;Endometrial stromal sarcoma;931
+8933;Preferred;Adenosarcoma;mesenchymal;Adenosarcoma;933
+8934;Preferred;Carcinofibroma;mesenchymal;Carcinofibroma;934
+8935;Preferred;Stromal sarcoma;mesenchymal;Sarcoma;935
+8936;Preferred;Gastrointestinal stromal tumor;mesenchymal;Gastrointestinal stromal tumor;936
+8940;Preferred;Mixed tumor;mixed or multipotent stem cell;Neoplasm;940
+8941;Preferred;Carcinoma ex pleomorphic adenoma;epithelial;Adenocarcinoma;941
+8950;Preferred;Mullerian mixed tumor;mixed or multipotent stem cell;Mullerian mixed tumor;950
+8951;Preferred;Mesodermal mixed tumor;mixed or multipotent stem cell;Mesodermal mixed tumor;951
+8959;Preferred;Malignant cystic nephroma;mixed or multipotent stem cell;Malignant cystic nephroma;959
+8960;Preferred;Nephroblastoma;mixed or multipotent stem cell;Nephroblastoma;960
+8963;Preferred;Rhabdoid tumor;mixed or multipotent stem cell;Rhabdoid tumor;963
+8964;Preferred;Clear cell sarcoma of kidney;mixed or multipotent stem cell;Sarcoma;964
+8970;Preferred;Hepatoblastoma;mixed or multipotent stem cell;Hepatoblastoma;970
+8971;Preferred;Pancreatoblastoma;mixed or multipotent stem cell;Pancreatoblastoma;971
+8972;Preferred;Pulmonary blastoma;mixed or multipotent stem cell;Pulmonary blastoma;972
+8973;Preferred;Pleuropulmonary blastoma;mixed or multipotent stem cell;Pleuropulmonary blastoma;973
+8980;Preferred;Carcinosarcoma;mixed or multipotent stem cell;Carcinosarcoma;980
+8981;Preferred;Carcinosarcoma;mixed or multipotent stem cell;Carcinosarcoma;981
+8982;Preferred;Myoepithelial carcinoma;mixed or multipotent stem cell;Myoepithelial carcinoma;982
+8983;Preferred;Adenomyoepithelioma with carcinoma;mixed or multipotent stem cell;Adenomyoepithelioma with carcinoma;983
+8990;Preferred;Mesenchymoma;mixed or multipotent stem cell;Mesenchymoma;990
+8991;Preferred;Embryonal sarcoma;mesenchymal;Embryonal sarcoma;991
+9000;Preferred;Brenner tumor malignant;epithelial;malignant Brenner tumor;1000
+9014;Preferred;Serous adenocarcinofibroma;epithelial;Serous adenocarcinofibroma;1014
+9015;Preferred;Mucinous adenocarcinofibroma;epithelial;Mucinous adenocarcinofibroma;1015
+9020;Preferred;Phyllodes tumor;mixed or multipotent stem cell;Phyllodes tumor;1020
+9040;Preferred;Synovial sarcoma;mesenchymal;Synovial sarcoma;1040
+9041;Preferred;Synovial sarcoma spindle cell;mesenchymal;Synovial sarcoma;1041
+9042;Preferred;Synovial sarcoma epithelioid cell;mesenchymal;Synovial sarcoma;1042
+9043;Preferred;Synovial sarcoma biphasic;mesenchymal;Synovial sarcoma;1043
+9044;Preferred;Clear cell sarcoma;mesenchymal;Clear cell sarcoma;1044
+9045;Preferred;Biphenotypic sinonasal sarcoma;mesenchymal;Biphenotypic sinonasal sarcoma;1045
+9050;Preferred;Mesotheliomamalignant;mesenchymal;Mesothelioma;1050
+9051;Preferred;Fibrous mesothelioma;mesenchymal;Mesothelioma;1051
+9052;Preferred;Epithelioid mesothelioma;mesenchymal;Mesothelioma;1052
+9053;Preferred;Mesothelioma biphasic;mesenchymal;Mesothelioma;1053
+9060;Preferred;Dysgerminoma;germ cell;Dysgerminoma;1060
+9061;Preferred;Seminoma;germ cell;Seminoma;1061
+9062;Preferred;Seminoma anaplastic;germ cell;Seminoma anaplastic;1062
+9063;Preferred;Spermatocytic seminoma;germ cell;Spermatocytic seminoma;1063
+9064;Preferred;Germinoma;germ cell;Germinoma;1064
+9065;Preferred;Germ cell tumor nonseminomatous;germ cell;Germ cell tumor nonseminomatous;1065
+9070;Preferred;Embryonal carcinoma;germ cell;Embryonal carcinoma;1070
+9071;Preferred;Yolk sac tumor;germ cell;Yolk sac tumor;1071
+9072;Preferred;Polyembryoma;germ cell;Polyembryoma;1072
+9080;Preferred;Teratoma;mixed or multipotent stem cell;Teratoma;1080
+9081;Preferred;Teratocarcinoma;mixed or multipotent stem cell;Teratocarcinoma;1081
+9082;Preferred;Malignant teratoma undifferentiated;mixed or multipotent stem cell;Teratoma;1082
+9083;Preferred;Malignant teratoma intermediate;mixed or multipotent stem cell;Teratoma;1083
+9084;Preferred;Teratoma with malignant transformation;mixed or multipotent stem cell;Teratoma;1084
+9085;Preferred;Mixed germ cell tumor;germ cell;Mixed germ cell tumor;1085
+9086;Preferred;Germ cell tumor with associated hematological malignancy;germ cell;Germ cell tumor with associated hematological malignancy;1086
+9090;Preferred;Struma ovariimalignant;epithelial;Adenocarcinoma;1090
+9100;Preferred;Choriocarcinoma;germ cell;Choriocarcinoma;1100
+9101;Preferred;Choriocarcinoma combined with other germ cell elements;germ cell;Choriocarcinoma;1101
+9102;Preferred;Malignant teratoma trophoblastic;mixed or multipotent stem cell;Teratoma;1102
+9105;Preferred;Trophoblastic tumor epithelioid;germ cell;Trophoblastic tumor;1105
+9110;Preferred;Mesonephroma;germ cell;Mesonephroma;1110
+9120;Preferred;Hemangiosarcoma;mesenchymal;Hemangiosarcoma;1120
+9124;Preferred;Kupffer cell sarcoma;mesenchymal;Kupffer cell sarcoma;1124
+9130;Preferred;Hemangioendothelioma;mesenchymal;Hemangioendothelioma;1130
+9133;Preferred;Epithelioid hemangioendothelioma;mesenchymal;Epithelioid hemangioendothelioma;1133
+9137;Preferred;Intimal sarcoma;mesenchymal;Intimal sarcoma;1137
+9140;Preferred;Kaposi sarcoma;mesenchymal;Kaposi sarcoma;1140
+9170;Preferred;Lymphangiosarcoma;mesenchymal;Lymphangiosarcoma;1170
+9180;Preferred;Osteosarcoma;mesenchymal;Osteosarcoma;1180
+9181;Preferred;Chondroblastic osteosarcoma;mesenchymal;Osteosarcoma;1181
+9182;Preferred;Fibroblastic osteosarcoma;mesenchymal;Osteosarcoma;1182
+9183;Preferred;Telangiectatic osteosarcoma;mesenchymal;Osteosarcoma;1183
+9184;Preferred;Osteosarcoma in Paget disease of bone;mesenchymal;Osteosarcoma;1184
+9185;Preferred;Small cell osteosarcoma;mesenchymal;Osteosarcoma;1185
+9186;Preferred;Central osteosarcoma;mesenchymal;Osteosarcoma;1186
+9187;Preferred;Low grade central osteosarcoma;mesenchymal;Osteosarcoma;1187
+9192;Preferred;Parosteal osteosarcoma;mesenchymal;Osteosarcoma;1192
+9193;Preferred;Periosteal osteosarcoma;mesenchymal;Osteosarcoma;1193
+9194;Preferred;High grade surface osteosarcoma;mesenchymal;Osteosarcoma;1194
+9195;Preferred;Intracortical osteosarcoma;mesenchymal;Osteosarcoma;1195
+9220;Preferred;Chondrosarcoma;mesenchymal;Chondrosarcoma;1220
+9221;Preferred;Periosteal chondrosarcoma;mesenchymal;Chondrosarcoma;1221
+9230;Preferred;Chondroblastoma;mesenchymal;Chondroblastoma;1230
+9231;Preferred;Myxoid chondrosarcoma;mesenchymal;Myxoid chondrosarcoma;1231
+9240;Preferred;Mesenchymal chondrosarcoma;mesenchymal;Chondrosarcoma;1240
+9242;Preferred;Clear cell chondrosarcoma;mesenchymal;Chondrosarcoma;1242
+9243;Preferred;Dedifferentiated chondrosarcoma;mesenchymal;Chondrosarcoma;1243
+9250;Preferred;Giant cell tumor of bone malignant;mesenchymal;malignant giant cell tumor of bone;1250
+9251;Preferred;Malignant giant cell tumor of soft parts;mesenchymal;Malignant giant cell tumor of soft parts;1251
+9252;Preferred;Malignant tenosynovial giant cell tumor;mesenchymal;Malignant tenosynovial giant cell tumor;1252
+9261;Preferred;Adamantinoma of long bones;epithelial;Adamantinoma of long bones;1261
+9270;Preferred;Odontogenic tumor;epithelial;Odontogenic tumor;1270
+9290;Preferred;Ameloblastic odontosarcoma;epithelial;Ameloblastic odontosarcoma;1290
+9302;Preferred;Ghost cell odontogenic carcinoma ;epithelial;Ghost cell odontogenic carcinoma;1302
+9310;Preferred;Ameloblastoma metastasizing;epithelial;Ameloblastoma;1310
+9330;Preferred;Ameloblastic fibrosarcoma;epithelial;Ameloblastic fibrosarcoma;1330
+9341;Preferred;Clear cell odontogenic carcinoma;epithelial;Clear cell odontogenic carcinoma;1341
+9342;Preferred;Odontogenic carcinosarcoma ;mixed or multipotent stem cell;Odontogenic carcinosarcoma;1342
+9362;Preferred;Pineoblastoma;mixed or multipotent stem cell;Pineoblastoma;1362
+9364;Preferred;Ewing sarcoma;mesenchymal;Ewing sarcoma;1364
+9365;Preferred;Askin tumor;neuroectodermal;Ewing sarcoma;1365
+9370;Preferred;Chordoma;mixed or multipotent stem cell;Chordoma;1370
+9371;Preferred;Chondroid chordoma;mixed or multipotent stem cell;Chordoma;1371
+9372;Preferred;Dedifferentiated chordoma;mixed or multipotent stem cell;Chordoma;1372
+9380;Preferred;Glioma malignant;neuroectodermal;Glioma;1380
+9381;Preferred;Gliomatosis cerebri;neuroectodermal;Glioma;1381
+9382;Preferred;Oligoastrocytoma;neuroectodermal;Oligoastrocytoma;1382
+9385;Preferred;Diffuse midline glioma H3 K27M-mutant;neuroectodermal;Glioma;1385
+9390;Preferred;Choroid plexus carcinoma;epithelial;Choroid plexus carcinoma;1390
+9391;Preferred;Ependymoma;neuroectodermal;Ependymoma;1391
+9392;Preferred;Ependymoma anaplastic;neuroectodermal;Ependymoma;1392
+9393;Preferred;Papillary ependymoma;neuroectodermal;Ependymoma;1393
+9395;Preferred;Papillary tumor of the pineal region;neuroectodermal;Ependymoma;1395
+9396;Preferred;Ependymoma RELA fusion-positive;neuroectodermal;Ependymoma;1396
+9400;Preferred;Astrocytoma;neuroectodermal;Astrocytoma;1400
+9401;Preferred;Astrocytoma anaplastic;neuroectodermal;Astrocytoma;1401
+9410;Preferred;Protoplasmic astrocytoma;neuroectodermal;Astrocytoma;1410
+9411;Preferred;Gemistocytic astrocytoma;neuroectodermal;Astrocytoma;1411
+9420;Preferred;Fibrillary astrocytoma;neuroectodermal;Astrocytoma;1420
+9423;Preferred;Polar spongioblastoma;neuroectodermal;Astrocytoma;1423
+9424;Preferred;Pleomorphic xanthoastrocytoma;neuroectodermal;Astrocytoma;1424
+9425;Preferred;Pilomyxoid astrocytoma;neuroectodermal;Astrocytoma;1425
+9430;Preferred;Astroblastoma;neuroectodermal;Astroblastoma;1430
+9440;Preferred;Glioblastoma;neuroectodermal;Glioblastoma;1440
+9441;Preferred;Giant cell glioblastoma;neuroectodermal;Glioblastoma;1441
+9442;Preferred;Gliosarcoma;neuroectodermal;Glioblastoma;1442
+9445;Preferred;Glioblastoma IDH-mutant;neuroectodermal;Glioblastoma;1445
+9450;Preferred;Oligodendroglioma;neuroectodermal;Oligodendroglioma;1450
+9451;Preferred;Oligodendroglioma anaplastic;neuroectodermal;Oligodendroglioma;1451
+9460;Preferred;Oligodendroblastoma;neuroectodermal;Oligodendroblastoma;1460
+9470;Preferred;Medulloblastoma;neuroectodermal;Medulloblastoma;1470
+9471;Preferred;Desmoplastic nodular medulloblastoma;neuroectodermal;Medulloblastoma;1471
+9472;Preferred;Medullomyoblastoma;neuroectodermal;Medullomyoblastoma;1472
+9473;Preferred;CNS embryonal tumor;neuroectodermal;CNS embryonal tumor;1473
+9474;Preferred;Large cell medulloblastoma;neuroectodermal;Medulloblastoma;1474
+9475;Preferred;Medullobloastoma WNT-activated;neuroectodermal;Medulloblastoma;1475
+9476;Preferred;Medulloblastoma SHH-activated and TP53-mutant;neuroectodermal;Medulloblastoma;1476
+9477;Preferred;Medulloblastoma non-WNT/non-SHH;neuroectodermal;Medulloblastoma;1477
+9478;Preferred;Embryonal tumor with multilayered rosettes with C19MC alteration;neuroectodermal;Medulloblastoma;1478
+9480;Preferred;Cerebellar sarcoma ;mixed or multipotent stem cell;Cerebellar sarcoma ;1480
+9490;Preferred;Ganglioneuroblastoma;neuroectodermal;Ganglioneuroblastoma;1490
+9500;Preferred;Neuroblastoma;neuroectodermal;Neuroblastoma;1500
+9501;Preferred;Medulloepithelioma ;neuroectodermal;Medulloepithelioma ;1501
+9502;Preferred;Teratoid medulloepithelioma;neuroectodermal;Teratoid medulloepithelioma;1502
+9503;Preferred;Neuroepithelioma ;neuroectodermal;Neuroepithelioma ;1503
+9504;Preferred;Spongioneuroblastoma;neuroectodermal;Spongioneuroblastoma;1504
+9505;Preferred;Ganglioglioma anaplastic;neuroectodermal;Ganglioglioma;1505
+9508;Preferred;Atypical teratoid/rhabdoid tumor;neuroectodermal;Rhabdoid tumor;1508
+9510;Preferred;Retinoblastoma;mixed or multipotent stem cell;Retinoblastoma;1510
+9511;Preferred;Retinoblastoma differentiated;mixed or multipotent stem cell;Retinoblastoma;1511
+9512;Preferred;Retinoblastomaundifferentiated;mixed or multipotent stem cell;Retinoblastoma;1512
+9513;Preferred;Retinoblastoma diffuse;mixed or multipotent stem cell;Retinoblastoma;1513
+9520;Preferred;Olfactory neurogenic tumor;neuroectodermal;Olfactory neurogenic tumor;1520
+9521;Preferred;Olfactory neurocytoma;neuroectodermal;Olfactory neurogenic tumor;1521
+9522;Preferred;Olfactory neuroblastoma;neuroectodermal;Olfactory neurogenic tumor;1522
+9523;Preferred;Olfactory neuroepithelioma;neuroectodermal;Olfactory neurogenic tumor;1523
+9530;Preferred;Meningiomamalignant;mesenchymal;Meningioma;1530
+9538;Preferred;Papillary meningioma;mesenchymal;Meningioma;1538
+9539;Preferred;Meningeal sarcomatosis;mesenchymal;Meningioma;1539
+9540;Preferred;Malignant peripheral nerve sheath tumor;neuroectodermal;Malignant peripheral nerve sheath tumor;1540
+9542;Preferred;Malignant peripheral nerve sheath tumor epithelioid;neuroectodermal;Malignant peripheral nerve sheath tumor;1542
+9560;Preferred;Neurilemomamalignant;neuroectodermal;Malignant peripheral nerve sheath tumor;1560
+9561;Preferred;Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation;neuroectodermal;Malignant peripheral nerve sheath tumor;1561
+9571;Preferred;Perineuriomamalignant;neuroectodermal;Malignant peripheral nerve sheath tumor;1571
+9580;Preferred;Granular cell tumor malignant;neuroectodermal;Granular cell tumor;1580
+9581;Preferred;Alveolar soft part sarcoma;mixed or multipotent stem cell;Alveolar soft part sarcoma;1581
+9590;Preferred;lymphoma;hematopoietic ;Lymphoma;1590
+9591;Preferred;lymphoma non-Hodgkin;hematopoietic ;Lymphoma;1591
+9596;Preferred;Composite Hodgkin and non-Hodgkin lymphoma;hematopoietic ;Lymphoma;1596
+9597;Preferred;Primary cutaneous follicle centre lymphoma;hematopoietic ;Lymphoma;1597
+9650;Preferred;Hodgkin lymphoma;hematopoietic ;Hodgkin lymphoma;1650
+9651;Preferred;Hodgkin lymphoma lymphocyte-rich;hematopoietic ;Hodgkin lymphoma;1651
+9652;Preferred;Hodgkin lymphoma mixed cellularity;hematopoietic ;Hodgkin lymphoma;1652
+9653;Preferred;Hodgkin lymphoma lymphocyte depletion;hematopoietic ;Hodgkin lymphoma;1653
+9654;Preferred;Hodgkin lymphoma lymphocyte depletion diffuse fibrosis;hematopoietic ;Hodgkin lymphoma;1654
+9655;Preferred;Hodgkin lymphoma lymphocyte depletion reticular;hematopoietic ;Hodgkin lymphoma;1655
+9659;Preferred;Hodgkin lymphoma nodular lymphocyte predominant;hematopoietic ;Hodgkin lymphoma;1659
+9661;Preferred;Hodgkin granuloma;hematopoietic ;Hodgkin lymphoma;1661
+9662;Preferred;Hodgkin sarcoma;hematopoietic ;Hodgkin lymphoma;1662
+9663;Preferred;Hodgkin lymphoma nodular sclerosis;hematopoietic ;Hodgkin lymphoma;1663
+9664;Preferred;Hodgkin lymphoma nodular sclerosis cellular phase;hematopoietic ;Hodgkin lymphoma;1664
+9665;Preferred;Hodgkin lymphoma nodular sclerosis grade 1;hematopoietic ;Hodgkin lymphoma;1665
+9667;Preferred;Hodgkin lymphoma nodular sclerosis grade 2;hematopoietic ;Hodgkin lymphoma;1667
+9670;Preferred;lymphoma non-Hodgkin;hematopoietic ;lymphoma non-Hodgkin;1670
+9671;Preferred;Lymphoplasmacytic lymphoma;hematopoietic ;Lymphoplasmacytic lymphoma;1671
+9673;Preferred;Mantle cell lymphoma;hematopoietic ;Mantle cell lymphoma;1673
+9675;Preferred;Malignant lymphoma mixed small and large cell diffuse;hematopoietic ;Lymphoma;1675
+9678;Preferred;Primary effusion lymphoma;hematopoietic ;Lymphoma;1678
+9679;Preferred;Mediastinal large B-cell lymphoma;hematopoietic ;B-cell lymphoma;1679
+9680;Preferred;Diffuse large B-cell lymphoma;hematopoietic ;Diffuse large B-cell lymphoma;1680
+9684;Preferred;Lymphoma large B-cell diffuse immunoblastic;hematopoietic ;Lymphoma;1684
+9687;Preferred;Burkitt lymphoma;hematopoietic ;Burkitt lymphoma;1687
+9688;Preferred;T-cell/histiocyte rich large B-cell lymphoma;hematopoietic ;B-cell lymphoma;1688
+9689;Preferred;Splenic marginal zone B-cell lymphoma;hematopoietic ;B-cell lymphoma;1689
+9690;Preferred;Follicular lymphoma;hematopoietic ;Follicular lymphoma;1690
+9691;Preferred;Follicular lymphoma grade 1/2;hematopoietic ;Follicular lymphoma;1691
+9695;Preferred;Follicular lymphoma grade 1/2;hematopoietic ;Follicular lymphoma;1695
+9698;Preferred;Follicular lymphoma grade 3;hematopoietic ;Follicular lymphoma;1698
+9699;Preferred;Marginal zone B-cell lymphoma;hematopoietic ;Marginal zone B-cell lymphoma;1699
+9700;Preferred;Mycosis fungoides;hematopoietic ;T-cell lymphoma;1700
+9701;Preferred;Sezary syndrome;hematopoietic ;T-cell lymphoma;1701
+9702;Preferred;Mature T-cell lymphoma;hematopoietic ;T-cell lymphoma;1702
+9705;Preferred;Angioimmunoblastic T-cell lymphoma;hematopoietic ;Angioimmunoblastic T-cell lymphoma;1705
+9708;Preferred;Subcutaneous panniculitis-like T-cell lymphoma;hematopoietic ;T-cell lymphoma;1708
+9709;Preferred;Cutaneous T-cell lymphoma;hematopoietic ;T-cell lymphoma;1709
+9712;Preferred;Intravascular large B-cell lymphoma;hematopoietic ;B-cell lymphoma;1712
+9714;Preferred;Anaplastic large cell lymphoma T-cell and Null-cell type;hematopoietic ;Anaplastic large cell lymphoma;1714
+9715;Preferred;Anaplastic large cell lymphoma ALK negative;hematopoietic ;Anaplastic large cell lymphoma;1715
+9716;Preferred;Hepatosplenic T-cell lymphoma;hematopoietic ;T-cell lymphoma;1716
+9717;Preferred;Intestinal T-cell lymphoma;hematopoietic ;T-cell lymphoma;1717
+9718;Preferred;Primary cutaneous anaplastic large cell lymphoma;hematopoietic ;Anaplastic large cell lymphoma;1718
+9719;Preferred;NK/T-cell lymphoma nasal and nasal type;hematopoietic ;NK/T-cell lymphoma;1719
+9724;Preferred;Systemic EBV positive T-cell lymphoproliferative disease of childhood;hematopoietic ;T-cell lymphoma;1724
+9726;Preferred;Primary cutaneous gamma-delta T-cell lymphoma;hematopoietic ;T-cell lymphoma;1726
+9727;Preferred;Precursor cell lymphoblastic lymphoma;hematopoietic ;Lymphoma;1727
+9731;Preferred;Plasmacytoma;hematopoietic ;Plasmacytoma;1731
+9732;Preferred;Plasma cell myeloma;hematopoietic ;Plasmacytoma;1732
+9733;Preferred;Plasma cell leukemia;hematopoietic ;Plasmacytoma;1733
+9734;Preferred;Plasmacytoma extramedullary;hematopoietic ;Plasmacytoma;1734
+9735;Preferred;Plasmablastic lymphoma;hematopoietic ;Plasmacytoma;1735
+9737;Preferred;ALK positive large B-cell lymphoma;hematopoietic ;B-cell lymphoma;1737
+9738;Preferred;HHV8-positive diffuse large B-cell lymphoma;hematopoietic ;B-cell lymphoma;1738
+9740;Preferred;Mast cell sarcoma;hematopoietic ;Lymphoma;1740
+9741;Preferred;Malignant mastocytosis;hematopoietic ;Lymphoma;1741
+9742;Preferred;Mast cell leukemia;hematopoietic ;Leukemia;1742
+9749;Preferred;Erdheim-Chester disease;hematopoietic ;Lymphoma;1749
+9750;Preferred;Malignant histiocytosis;hematopoietic ;histiocytic tumor;1750
+9751;Preferred;Langerhans cell histiocytosis disseminated;hematopoietic ;Langerhans cell histiocytosis;1751
+9755;Preferred;Histiocytic sarcoma;hematopoietic ;histiocytic tumor;1755
+9756;Preferred;Langerhans cell sarcoma;hematopoietic ;Langerhans cell histiocytosis;1756
+9757;Preferred;Interdigitating dendritic cell sarcoma;hematopoietic ;Lymphoma;1757
+9758;Preferred;Follicular dendritic cell sarcoma;hematopoietic ;Lymphoma;1758
+9759;Preferred;Fibroblastic reticular cell tumor;hematopoietic ;Lymphoma;1759
+9760;Preferred;Immunoproliferative disease;hematopoietic ;Immunoproliferative disease;1760
+9761;Preferred;Waldenstrom macroglobulinemia;hematopoietic ;Immunoproliferative disease;1761
+9762;Preferred;Heavy chain disease;hematopoietic ;Immunoproliferative disease;1762
+9764;Preferred;Immunoproliferative small intestinal disease;hematopoietic ;Immunoproliferative disease;1764
+9766;Preferred;Lymphomatoid granulomatosis grade 3;hematopoietic ;Immunoproliferative disease;1766
+9800;Preferred;Leukemia;hematopoietic ;Leukemia;1800
+9801;Preferred;Acute leukemia;hematopoietic ;Leukemia;1801
+9805;Preferred;Acute biphenotypic leukemia;hematopoietic ;Leukemia;1805
+9806;Preferred;Mixed phenotype acute leukemia with t(9,22)(q34,q11.2),BCR-ABL1;hematopoietic ;Leukemia;1806
+9807;Preferred;Mixed phenotype acute leukemia with t(v,11q23),MLL rearranged;hematopoietic ;Leukemia;1807
+9808;Preferred;Mixed phenotype acute leukemia;hematopoietic ;Leukemia;1808
+9809;Preferred;Mixed phenotype acute leukemia;hematopoietic ;Leukemia;1809
+9811;Preferred;B lymphoblastic leukemia/lymphoma;hematopoietic ;Leukemia;1811
+9812;Preferred;B lymphoblastic leukemia/lymphoma with t(9,22)(q34,q11.2),BCR-ABL1;hematopoietic ;Leukemia;1812
+9813;Preferred;B lymphoblastic leukemia/lymphoma with t(v,11q23),MLL rearranged;hematopoietic ;Leukemia;1813
+9814;Preferred;B lymphoblastic leukemia/lymphoma with t(12,21)(p13,q22),TEL-AML1(ETV6-RUNX1);hematopoietic ;Leukemia;1814
+9815;Preferred;B lymphoblastic leukemia/lymphoma with hyperdiploidy;hematopoietic ;Leukemia;1815
+9816;Preferred;B lymphoblastic leukemia/lymphoma with hypodiploidy(Hypodiploid ALL);hematopoietic ;Leukemia;1816
+9817;Preferred;B lymphoblastic leukemia/lymphoma with t(5,14)(q31,q32),IL3-IGH;hematopoietic ;Leukemia;1817
+9818;Preferred;B lymphoblastic leukemia/lymphoma with t(1,19)(q23,p13.3),E2A-PBX1(TCF3-PBX1);hematopoietic ;Leukemia;1818
+9819;Preferred;B lymphoblastic leukemia/lymphoma;hematopoietic ;Leukemia;1819
+9820;Preferred;Lymphoid leukemia;hematopoietic ;Leukemia;1820
+9823;Preferred;B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma;hematopoietic ;Chronic lymphocytic leukemia;1823
+9827;Preferred;Adult T-cell leukemia/lymphoma (HTLV-1 positive);hematopoietic ;Leukemia;1827
+9831;Preferred;T-cell large granular lymphocytic leukemia;hematopoietic ;Leukemia;1831
+9832;Preferred;Prolymphocytic leukemia;hematopoietic ;Leukemia;1832
+9833;Preferred;Prolymphocytic leukemia;hematopoietic ;Leukemia;1833
+9834;Preferred;Prolymphocytic leukemia;hematopoietic ;Leukemia;1834
+9835;Preferred;Precursor cell lymphoblastic leukemia;hematopoietic ;Leukemia;1835
+9837;Preferred;Precursor T-cell lymphoblastic leukemia;hematopoietic ;Leukemia;1837
+9840;Preferred;Acute erythroid leukemia;hematopoietic ;Leukemia;1840
+9860;Preferred;Myeloid leukemia;hematopoietic ;Myeloid leukemia;1860
+9861;Preferred;Acute myeloid leukemia;hematopoietic ;Acute myeloid leukemia;1861
+9863;Preferred;Chronic myeloid leukemia;hematopoietic ;Chronic myeloid leukemia;1863
+9865;Preferred;Acute myeloid leukemia with t(6,9)(p23,q34),DEK-NUP214;hematopoietic ;Acute myeloid leukemia;1864
+9866;Preferred;Acute promyelocytic leukemia, t(15,17)(q22,q11-12);hematopoietic ;Acute myeloid leukemia;1865
+9867;Preferred;Acute myelomonocytic leukemia;hematopoietic ;Acute myeloid leukemia;1867
+9869;Preferred;Acute myeloid leukemia with inv(3)(q21,q26.2) or t(3,3)(q21,q26.2);hematopoietic ;Acute myeloid leukemia;1868
+9870;Preferred;Acute basophilic leukemia;hematopoietic ;Acute myeloid leukemia;1870
+9871;Preferred;Acute myeloid leukemia with abnormal marrow eosinophils;hematopoietic ;Acute myeloid leukemia;1871
+9872;Preferred;Acute myeloid leukemia;hematopoietic ;Acute myeloid leukemia;1872
+9873;Preferred;Acute myeloid leukemia without maturation;hematopoietic ;Acute myeloid leukemia;1873
+9874;Preferred;Acute myeloid leukemia with maturation;hematopoietic ;Acute myeloid leukemia;1874
+9875;Preferred;Chronic myelogenous leukemia;hematopoietic ;Chronic myeloid leukemia;1875
+9876;Preferred;Atypical chronic myeloid leukemia;hematopoietic ;Acute myeloid leukemia;1876
+9877;Preferred;Acute myeloid leukemia with mutated NPM1;hematopoietic ;Acute myeloid leukemia;1877
+9878;Preferred;Acute myeloid leukemia with biallelic mutation of CEBPA;hematopoietic ;Acute myeloid leukemia;1878
+9879;Preferred;Acute myeloid leukemia with mutated RUNX1;hematopoietic ;Acute myeloid leukemia;1879
+9891;Preferred;Acute monocytic leukemia;hematopoietic ;Acute myeloid leukemia;1891
+9895;Preferred;Acute myeloid leukemia with myelodysplasia-related changes;hematopoietic ;Acute myeloid leukemia;1895
+9896;Preferred;Acute myeloid leukemia, t(8,21)(q22,q22);hematopoietic ;Acute myeloid leukemia;1896
+9897;Preferred;Acute myeloid leukemia;hematopoietic ;Acute myeloid leukemia;1897
+9898;Preferred;Myeloid leukemia associated with Down syndrome;hematopoietic ;Acute myeloid leukemia;1898
+9910;Preferred;Acute megakaryoblastic leukemia;hematopoietic ;Acute myeloid leukemia;1910
+9911;Preferred;Acute myeloid leukemia (megakaryoblastic) with t(1,22)(p13,q13),RBM15-MKL1;hematopoietic ;Acute myeloid leukemia;1911
+9912;Preferred;Acute myleoid leukemia with BCR-ABL1;hematopoietic ;Acute myeloid leukemia;1912
+9920;Preferred;Therapy-related myeloid neoplasm;hematopoietic ;Acute myeloid leukemia;1920
+9930;Preferred;Myeloid sarcoma;hematopoietic ;Myeloid sarcoma;1930
+9931;Preferred;Acute panmyelosis with myelofibrosis;hematopoietic ;Acute myeloid leukemia;1931
+9940;Preferred;Hairy cell leukemia;hematopoietic ;Hairy cell leukemia;1940
+9945;Preferred;Chronic myelomonocytic leukemia;hematopoietic ;Leukemia;1945
+9946;Preferred;Juvenile myelomonocytic leukemia;hematopoietic ;Leukemia;1946
+9948;Preferred;Aggressive NK-cell leukemia;hematopoietic ;Aggressive NK-cell leukemia;1948
+9950;Preferred;Polycythemia vera;hematopoietic ;Polycythemia vera;1950
+9960;Preferred;Myeloproliferative neoplasm;hematopoietic ;Myeloproliferative neoplasm;1960
+9961;Preferred;Primary myelofibrosis;hematopoietic ;Primary myelofibrosis;1961
+9962;Preferred;Essential thrombocythemia;hematopoietic ;Essential thrombocythemia;1962
+9963;Preferred;Chronic neutrophilic leukemia;hematopoietic ;Leukemia;1963
+9964;Preferred;Chronic eosinophilic leukemia;hematopoietic ;Leukemia;1964
+9965;Preferred;Myeloid or lymphoid neoplasm with PDGFRA rearrangement;hematopoietic ;Myeloid neoplasm;1965
+9966;Preferred;Myeloid neoplasm with PDGFRB rearrangement;hematopoietic ;Myeloid neoplasm;1966
+9967;Preferred;Myeloid or lymphoid neoplasm with FGFR1 abnormalities;hematopoietic ;Myeloid neoplasm;1967
+9968;Preferred;Myeloid or lymphoid neoplasm with PCM1-JAK2;hematopoietic ;Myeloid neoplasm;1968
+9975;Preferred;Myeloproliferative neoplasm;hematopoietic ;Myeloproliferative neoplasm;1975
+9980;Preferred;Myelodysplastic syndrome with single lineage dysplasia;hematopoietic ;Myelodysplastic syndrome;1980
+9982;Preferred;Myelodysplastic syndrome with ring sideroblasts and single lineage dysplasia;hematopoietic ;Myelodysplastic syndrome;1982
+9983;Preferred;Myelodysplastic syndrome with excess blasts;hematopoietic ;Myelodysplastic syndrome;1983
+9984;Preferred;Refractory anemia with excess blasts in transformation;hematopoietic ;Myelodysplastic syndrome;1984
+9985;Preferred;Myelodysplastic syndrome with multilineage dysplasia;hematopoietic ;Myelodysplastic syndrome;1985
+9986;Preferred;Myelodysplastic syndrome with isolated del (5q);hematopoietic ;Myelodysplastic syndrome;1986
+9987;Preferred;Therapy-related myelodysplastic syndrome;hematopoietic ;Myelodysplastic syndrome;1987
+9989;Preferred;Myelodysplastic syndrome;hematopoietic ;Myelodysplastic syndrome;1989
